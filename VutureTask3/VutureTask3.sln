@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VutureTask3", "VutureTask3\VutureTask3.csproj", "{86A228FB-99AC-4130-AF1D-FCE6D12CB29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VutureTask3Tests", "VutureTask3Tests\VutureTask3Tests.csproj", "{6765E5F0-2C1E-4982-B7E5-85141C640560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A228FB-99AC-4130-AF1D-FCE6D12CB29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A228FB-99AC-4130-AF1D-FCE6D12CB29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A228FB-99AC-4130-AF1D-FCE6D12CB29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A228FB-99AC-4130-AF1D-FCE6D12CB29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6765E5F0-2C1E-4982-B7E5-85141C640560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6765E5F0-2C1E-4982-B7E5-85141C640560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6765E5F0-2C1E-4982-B7E5-85141C640560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6765E5F0-2C1E-4982-B7E5-85141C640560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

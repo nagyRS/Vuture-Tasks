@@ -1,0 +1,8 @@
+C:\Users\nagyr\Documents\Visual Studio 2015\Projects\Vuture\VutureTask3\VutureTask3Tests\bin\Debug\VutureTask3Tests.dll
+C:\Users\nagyr\Documents\Visual Studio 2015\Projects\Vuture\VutureTask3\VutureTask3Tests\bin\Debug\VutureTask3Tests.pdb
+C:\Users\nagyr\Documents\Visual Studio 2015\Projects\Vuture\VutureTask3\VutureTask3Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nagyr\Documents\Visual Studio 2015\Projects\Vuture\VutureTask3\VutureTask3Tests\bin\Debug\VutureTask3.exe
+C:\Users\nagyr\Documents\Visual Studio 2015\Projects\Vuture\VutureTask3\VutureTask3Tests\bin\Debug\VutureTask3.pdb
+C:\Users\nagyr\Documents\Visual Studio 2015\Projects\Vuture\VutureTask3\VutureTask3Tests\obj\Debug\VutureTask3Tests.csprojResolveAssemblyReference.cache
+C:\Users\nagyr\Documents\Visual Studio 2015\Projects\Vuture\VutureTask3\VutureTask3Tests\obj\Debug\VutureTask3Tests.dll
+C:\Users\nagyr\Documents\Visual Studio 2015\Projects\Vuture\VutureTask3\VutureTask3Tests\obj\Debug\VutureTask3Tests.pdb
