@@ -26,23 +26,23 @@ namespace VutureTask3
                 {
                     string[] newArray = myTextArray.Select(x => x.Replace(myTextArray[i], "$$$$")).ToArray();
                     message = ConvertArrayToString(newArray);
-                    Console.WriteLine("{0}", message);
+    
                 }
                 else
                 {
                     message = ConvertArrayToString(myTextArray);
-                    Console.WriteLine("{0}", message);
+                   
                 }
   
             
             }
 
-
+           Console.WriteLine("{0}", message);
           
 
         }
 
-        // change the 
+       
         public static bool IsPalindrome(string word)
         {
             //char[] trimChars = { ' ', '.', ':', '"' };
